@@ -7,6 +7,7 @@
 |插件名|功能|下载|
 | :----: | :----: | :----: |
 | VSSR | HelloWorld 科学工具 | [下载](https://cdn.jsdelivr.net/gh/AUK9527/Are-u-ok@master/x86/all/VSSR_x86.run) |
+| PassWall | PassWall 科学工具 | [下载](https://cdn.jsdelivr.net/gh/AUK9527/Are-u-ok@master/x86/all/PassWall_x86.run) |
 
 
 #### 如何安装，下载后，iStore手动安装，选择文件安装即可。
