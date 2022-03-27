@@ -7,7 +7,7 @@
 |插件名|功能|下载|
 | :----: | :----: | :----: |
 | AdGuardHome | AdGuardHome 去广告 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/AdGuardHome_20211014.run) |
-| ikoolproxy | koolproxy去广告 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/ikoolproxy_a53.run) |
+| ikoolproxy | koolproxy去广告(不适合高于5.4内核的固件) | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/ikoolproxy_a53.run) |
 | Adblock | Adblock 去广告 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/adblock.run) |
 | OpenClash | OpenClash 科学工具 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/OpenClash_a53.run) |
 | PassWall | PassWall 科学工具 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/PassWall_a53.run) |
