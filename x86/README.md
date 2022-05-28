@@ -15,7 +15,7 @@
 | adblock | adblock去广告 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all/adblock_x86.run) |
 | adbyby | adbyby去广告 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all/adbyby_x86.run) |
 | AdGuardHome | AdGuardHome 去广告 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/AdGuardHome_20211014.run) |
-| UnblockNeteaseMusic | 解锁网易云灰色歌曲 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/UnblockNeteaseMusic_20211020.run) |
+| UnblockNeteaseMusic | 解锁网易云灰色歌曲 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all/UnblockNeteaseMusic_x86.run) |
 | KMS | KMS服务器 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all/KMS_x86.run) |
 
 #### 如何安装，下载后，iStore手动安装，选择文件安装即可。
