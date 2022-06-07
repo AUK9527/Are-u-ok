@@ -4,6 +4,9 @@
 
 * 例如：EasePi ARS2、小米AX3600、AX9000、红米AX6等。
 
+* 也适用于aarch64_generic平台，例如R2s、R4s、R5s、R68s等。
+
+
 |插件名|功能|下载|
 | :----: | :----: | :----: |
 | AdGuardHome | AdGuardHome 去广告 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/AdGuardHome_20211014.run) |
