@@ -18,7 +18,8 @@
 | UnblockNeteaseMusic | 解锁网易云灰色歌曲 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all/UnblockNeteaseMusic_x86.run) |
 | KMS | KMS服务器 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all/KMS_x86.run) |
 | OpenVPN | OpenVPN客户端 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all/OpenVPN_x86.run) |
-| OpenVPN-Server | OpenVPN服务端 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all/OpenVPN-Server_x86.run) 
+| OpenVPN-Server | OpenVPN服务端 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all/OpenVPN-Server_x86.run)
+| MosDNS | DNS 转发/分流器 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all/MosDNS_x86.run) |
 
 #### 如何安装，下载后，iStore手动安装，选择文件安装即可。
 

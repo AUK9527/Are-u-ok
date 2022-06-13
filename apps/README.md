@@ -23,7 +23,7 @@
 | OpenVPN-Server | OpenVPN服务端 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/OpenVPN-Server_a53.run) |
 | JD-dailybonus | 某东签到(扫码早就gg，手动填cookie) | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/JD-dailybonus_20211105.run) |
 | KMS | KMS服务器 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/KMS_a53.run) |
-
+| MosDNS | DNS 转发/分流器 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/MosDNS_a53.run) |
 
 #### 如何安装，下载后，iStore手动安装，选择文件安装即可。
 
