@@ -4,8 +4,11 @@
 
 * 例如：EasePi ARS2、小米AX3600、AX9000、红米AX6等。
 
-* 也适用于aarch64_generic平台，例如R2s、R4s、R5s、R68s等。
+* 也兼容aarch64_generic平台，例如R2s、R4s、R5s、R68s等。
 
+* aarch64_generic平台如果要兼容这些离线包，请使用iStoreOS固件，或者固件做了适配iStore。
+
+* aarch64_generic平台安装PassWall/ByPass/VSSR/SSR-Plus这四个插件建议使用专属离线包。其他插件通用。
 
 |插件名|功能|下载|
 | :----: | :----: | :----: |
@@ -25,6 +28,17 @@
 | KMS | KMS服务器 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/KMS_a53.run) |
 | MosDNS | DNS 转发/分流器 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/MosDNS_a53.run) |
 | NPS | Nps内网穿透 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/NPS_a53.run) |
+
+
+* aarch64_generic平台专属：
+
+|插件名|功能|下载|
+| :----: | :----: | :----: |
+| PassWall | PassWall 科学工具 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/PassWall_generic..run) |
+| ByPass | ByPass 科学工具 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/ByPass_generic..run) |
+| VSSR | HelloWorld 科学工具 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/VSSR_generic..run) |
+| SSR-Plus | ssr-plus 科学工具 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/SSR-Plus_generic..run) |
+
 
 #### 如何安装，下载后，iStore手动安装，选择文件安装即可。
 
