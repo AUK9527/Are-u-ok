@@ -8,8 +8,6 @@
 
 * aarch64_generic平台如果要兼容这些离线包，请使用iStoreOS固件，或者固件做了适配iStore。
 
-* aarch64_generic平台安装PassWall/ByPass/VSSR/SSR-Plus这四个插件建议使用专属离线包。其他插件通用。
-
 |插件名|功能|下载|
 | :----: | :----: | :----: |
 | AdGuardHome | AdGuardHome 去广告 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/AdGuardHome_20211014.run) |
@@ -30,14 +28,42 @@
 | NPS | Nps内网穿透 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/NPS_a53.run) |
 
 
-* aarch64_generic平台专属：
 
+
+* aarch64_generic平台安装PassWall/ByPass/VSSR/SSR-Plus这四个插件如果碰到了下列错误，请使用下面的离线包：
+```
+Error loading shared library libmbedcrypto.so.3: No such file or directory (needed by /usr/bin/ss-local)
+Error relocating /usr/bin/ss-local: mbedtls_cipher_update: symbol not found
+Error relocating /usr/bin/ss-local: mbedtls_cipher_free: symbol not found
+Error relocating /usr/bin/ss-local: mbedtls_cipher_auth_decrypt: symbol not found
+Error relocating /usr/bin/ss-local: mbedtls_cipher_setkey: symbol not found
+Error relocating /usr/bin/ss-local: mbedtls_md_finish: symbol not found
+Error relocating /usr/bin/ss-local: mbedtls_md_hmac: symbol not found
+Error relocating /usr/bin/ss-local: mbedtls_md_hmac_starts: symbol not found
+Error relocating /usr/bin/ss-local: mbedtls_cipher_reset: symbol not found
+Error relocating /usr/bin/ss-local: mbedtls_md_hmac_update: symbol not found
+Error relocating /usr/bin/ss-local: mbedtls_md5_ret: symbol not found
+Error relocating /usr/bin/ss-local: mbedtls_md_starts: symbol not found
+Error relocating /usr/bin/ss-local: mbedtls_md_update: symbol not found
+Error relocating /usr/bin/ss-local: mbedtls_cipher_set_iv: symbol not found
+Error relocating /usr/bin/ss-local: mbedtls_md_get_size: symbol not found
+Error relocating /usr/bin/ss-local: mbedtls_cipher_init: symbol not found
+Error relocating /usr/bin/ss-local: mbedtls_md_setup: symbol not found
+Error relocating /usr/bin/ss-local: mbedtls_cipher_setup: symbol not found
+Error relocating /usr/bin/ss-local: mbedtls_md_free: symbol not found
+Error relocating /usr/bin/ss-local: mbedtls_cipher_info_from_string: symbol not found
+Error relocating /usr/bin/ss-local: mbedtls_md_hmac_finish: symbol not found
+Error relocating /usr/bin/ss-local: mbedtls_cipher_auth_encrypt: symbol not found
+Error relocating /usr/bin/ss-local: mbedtls_md_info_from_string: symbol not found
+Error relocating /usr/bin/ss-local: mbedtls_md_init: symbol not found
+ln: libmbedcrypto.so.3: File exists
+```
 |插件名|功能|下载|
 | :----: | :----: | :----: |
-| PassWall | PassWall 科学工具 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/PassWall_generic..run) |
-| ByPass | ByPass 科学工具 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/ByPass_generic..run) |
-| VSSR | HelloWorld 科学工具 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/VSSR_generic..run) |
-| SSR-Plus | ssr-plus 科学工具 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/SSR-Plus_generic..run) |
+| PassWall | PassWall 科学工具 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/PassWall_generic.run) |
+| ByPass | ByPass 科学工具 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/ByPass_generic.run) |
+| VSSR | HelloWorld 科学工具 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/VSSR_generic.run) |
+| SSR-Plus | ssr-plus 科学工具 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/SSR-Plus_generic.run) |
 
 
 #### 如何安装，下载后，iStore手动安装，选择文件安装即可。
