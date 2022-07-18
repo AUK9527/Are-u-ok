@@ -23,6 +23,7 @@
 | JD-dailybonus | 某东签到(扫码早就gg，手动填cookie) | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/JD-dailybonus_20211105.run) |
 | KMS | KMS服务器 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/KMS_a53.run) |
 | MosDNS | DNS 转发/分流器 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/MosDNS_a53.run) |
+| MosDNS v4 | DNS 转发/分流器(使用v4版请卸载干净之前的版本) | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/MosDNS-v4_a53.run) |
 | NPS | Nps内网穿透 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/NPS_a53.run) |
 
 
