@@ -7,7 +7,7 @@
 |插件名|功能|下载|
 | :----: | :----: | :----: |
 | PassWall | PassWall 科学工具 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all/PassWall_x86.run) |
-| OpenClash | OpenClash 科学工具 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all//OpenClash_x86.run) |
+| OpenClash | OpenClash 科学工具(自带核心) | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all//OpenClash+Kernel_x86.run) |
 | VSSR | HelloWorld 科学工具 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all/VSSR_x86.run) |
 | SSR-Plus | SSR-Plus 科学工具 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all/SSR-Plus_x86.run) |
 | ByPass | ByPass 科学工具 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all/ByPass_x86.run) |
