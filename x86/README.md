@@ -19,8 +19,6 @@
 | KMS | KMS服务器 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all/KMS_x86.run) |
 | OpenVPN | OpenVPN客户端 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all/OpenVPN_x86.run) |
 | OpenVPN-Server | OpenVPN服务端 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all/OpenVPN-Server_x86.run)
-| MosDNS | DNS 转发/分流器 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all/MosDNS_x86.run) |
-| MosDNS v4 | DNS 转发/分流器(使用v4版请卸载干净之前的版本) | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all/MosDNS-v4_x86.run) |
 | NPS | Nps内网穿透 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all/NPS_x86.run) |
 | alist v2 | 支持多存储的文件列表程序 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all/alist_x86.run) |
 | DDNS-GO | 自动获得你的公网IPv4或IPv6地址,并解析到对应的域名服务 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all/DDNS-GO_x86.run) |
