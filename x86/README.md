@@ -14,7 +14,7 @@
 | ikoolproxy | koolproxy去广告(不适合高于5.4内核的固件) | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all//ikoolproxy_x86.run) |
 | adblock | adblock去广告 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all/adblock_x86.run) |
 | adbyby | adbyby去广告 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all/adbyby_x86.run) |
-| AdGuardHome | AdGuardHome 去广告 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/AdGuardHome_20211014.run) |
+| AdGuardHome | AdGuardHome 去广告(带核心) | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all/AdGuardHome_x86.run) |
 | UnblockNeteaseMusic | 解锁网易云灰色歌曲 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all/UnblockNeteaseMusic_x86.run) |
 | KMS | KMS服务器 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all/KMS_x86.run) |
 | OpenVPN | OpenVPN客户端 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all/OpenVPN_x86.run) |

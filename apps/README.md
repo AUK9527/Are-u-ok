@@ -8,7 +8,7 @@
 
 |插件名|功能|下载|
 | :----: | :----: | :----: |
-| AdGuardHome | AdGuardHome 去广告 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/AdGuardHome_20211014.run) |
+| AdGuardHome | AdGuardHome 去广告(带核心) | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/AdGuardHome_a53.run) |
 | ikoolproxy | koolproxy去广告(不适合高于5.4内核的固件) | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/ikoolproxy_a53.run) |
 | Adblock | Adblock 去广告 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/adblock.run) |
 | Adbyby | 广告屏蔽大师 Plus+ | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/adbyby_a53.run) |
