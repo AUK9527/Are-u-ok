@@ -23,7 +23,6 @@
 | JD-dailybonus | 某东签到(扫码早就gg，手动填cookie) | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/JD-dailybonus_20211105.run) |
 | KMS | KMS服务器 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/KMS_a53.run) |
 | NPS | Nps内网穿透 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/NPS_a53.run) |
-| alist v2 | 支持多存储的文件列表程序 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/alist_a53.run) |
 
 
 #### 如何安装，下载后，iStore手动安装，选择文件安装即可。
