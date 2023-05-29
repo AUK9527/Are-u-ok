@@ -6,17 +6,29 @@
 
 * aarch64_generic平台如果要兼容这些离线包，请使用iStoreOS固件，或者固件做了适配iStore。
 
+* 一些新版离线包测试：
+
 |插件名|功能|下载|
 | :----: | :----: | :----: |
+| PassWall | PassWall 科学工具(更新) | [下载新版](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/PassWall_a53_update.run) |
+| SSR-Plus | ssr-plus 科学工具(更新) | [下载新版](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/SSR-Plus_a53_update.run) |
+| OpenClash | OpenClash 科学工具(更新) | [下载新版](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/OpenClash_a53_update.run) |
+
+passwall和ssr-p安装最后可能会出现一堆ss相关的报错，不要理会，这2个插件位置会出现在VPN分类里。
+
+* 一系列离线包：
+
+|插件名|功能|下载|
+| :----: | :----: | :----: |
+| PassWall | PassWall 科学工具 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/PassWall_a53.run) |
+| SSR-Plus | ssr-plus 科学工具 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/SSR-Plus_a53.run) |
+| OpenClash | OpenClash 科学工具(自带核心) | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/OpenClash+Kernel_a53.run) |
+| ByPass | ByPass 科学工具 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/ByPass_a53.run) |
+| VSSR | HelloWorld 科学工具 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/VSSR_a53.run) |
 | AdGuardHome | AdGuardHome 去广告(带核心) | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/AdGuardHome_a53.run) |
 | ikoolproxy | koolproxy去广告(不适合高于5.4内核的固件) | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/ikoolproxy_a53.run) |
 | Adblock | Adblock 去广告 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/adblock.run) |
 | Adbyby | 广告屏蔽大师 Plus+ | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/adbyby_a53.run) |
-| OpenClash | OpenClash 科学工具(自带核心) | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/OpenClash+Kernel_a53.run) |
-| PassWall | PassWall 科学工具 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/PassWall_a53.run) |
-| ByPass | ByPass 科学工具 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/ByPass_a53.run) |
-| VSSR | HelloWorld 科学工具 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/VSSR_a53.run) |
-| SSR-Plus | ssr-plus 科学工具 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/SSR-Plus_a53.run) |
 | UnblockNeteaseMusic | 解锁网易云灰色歌曲 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/UnblockNeteaseMusic_a53.run) |
 | OpenVPN | OpenVPN客户端 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/OpenVPN_20211018.run) |
 | OpenVPN-Server | OpenVPN服务端 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/OpenVPN-Server_a53.run) |

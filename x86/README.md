@@ -4,12 +4,27 @@
 
 * 例如：各种x86、x64架构的软路由等。
 
+* 一些新版离线包测试：
+
 |插件名|功能|下载|
 | :----: | :----: | :----: |
+| PassWall | PassWall 科学工具(更新) | [下载新版](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all/PassWall_x86_update.run) |
+| SSR-Plus | SSR-Plus 科学工具(更新) | [下载新版](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all/SSR-Plus_x86_update.run) |
+| OpenClash | OpenClash 科学工具(更新) | [下载新版](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all//OpenClash_x86_update.run) |
+
+passwall和ssr-p安装最后可能会出现一堆ss相关的报错，不要理会，这2个插件位置会出现在VPN分类里。
+
+
+* 一系列离线包：
+
+|插件名|功能|下载|
+| :----: | :----: | :----: |
+| PassWall | PassWall 科学工具(更新) | [下载新版](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all/PassWall_x86_update.run) |
+| SSR-Plus | SSR-Plus 科学工具(更新) | [下载新版](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all/SSR-Plus_x86_update.run) |
 | PassWall | PassWall 科学工具 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all/PassWall_x86.run) |
+| SSR-Plus | SSR-Plus 科学工具 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all/SSR-Plus_x86.run) |
 | OpenClash | OpenClash 科学工具(自带核心) | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all//OpenClash+Kernel_x86.run) |
 | VSSR | HelloWorld 科学工具 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all/VSSR_x86.run) |
-| SSR-Plus | SSR-Plus 科学工具 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all/SSR-Plus_x86.run) |
 | ByPass | ByPass 科学工具 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all/ByPass_x86.run) |
 | ikoolproxy | koolproxy去广告(不适合高于5.4内核的固件) | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all//ikoolproxy_x86.run) |
 | adblock | adblock去广告 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all/adblock_x86.run) |
