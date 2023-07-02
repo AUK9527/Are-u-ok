@@ -19,8 +19,7 @@ passwall和ssr-p安装最后可能会出现一堆ss相关的报错，不要理�
 
 |插件名|功能|下载|
 | :----: | :----: | :----: |
-| PassWall | PassWall 科学工具(更新) | [下载新版](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all/PassWall_x86_update.run) |
-| SSR-Plus | SSR-Plus 科学工具(更新) | [下载新版](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all/SSR-Plus_x86_update.run) |
+| PassWall | PassWall 科学工具(全组件版，适合大闪存机器，体积60M左右) | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all/PassWall_x86_all.run) |
 | PassWall | PassWall 科学工具 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all/PassWall_x86.run) |
 | SSR-Plus | SSR-Plus 科学工具 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all/SSR-Plus_x86.run) |
 | OpenClash | OpenClash 科学工具(自带核心) | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all//OpenClash+Kernel_x86.run) |
