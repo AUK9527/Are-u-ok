@@ -16,6 +16,14 @@
 
 passwall和ssr-p安装最后可能会出现一堆ss相关的报错，不要理会，这2个插件位置会出现在VPN分类里。
 
+* 适用于KoolCenter iStoreOS 22.03.5的passwall离线包
+
+|插件名|功能|下载|
+| :----: | :----: | :----: |
+| PassWall | PassWall 科学工具(更新) | [passwall4.71-2](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all/PassWall4.71-2_a53_all_sdk_22.03.5.run) |
+
+使用22.03.5sdk编译，依旧使用libopenssl1.1，无需libopenssl3依赖的4.71-2最新版passwall，安装后在服务里。
+
 * 一系列离线包：
 
 |插件名|功能|下载|
