@@ -10,9 +10,9 @@
 
 |插件名|功能|下载|
 | :----: | :----: | :----: |
-| PassWall | PassWall 科学工具(更新) | [下载新版](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/PassWall_a53_update.run) |
-| SSR-Plus | ssr-plus 科学工具(更新) | [下载新版](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/SSR-Plus_a53_update.run) |
-| OpenClash | OpenClash 科学工具(更新) | [下载新版](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/OpenClash_a53_update.run) |
+| PassWall | PassWall 科学工具(更新) | [下载新版](./all/PassWall_a53_update.run?raw=true) |
+| SSR-Plus | ssr-plus 科学工具(更新) | [下载新版](./all/SSR-Plus_a53_update.run?raw=true) |
+| OpenClash | OpenClash 科学工具(更新) | [下载新版](./all/OpenClash_a53_update.run?raw=true) |
 
 passwall和ssr-p安装最后可能会出现一堆ss相关的报错，不要理会，这2个插件位置会出现在VPN分类里。
 
@@ -20,7 +20,7 @@ passwall和ssr-p安装最后可能会出现一堆ss相关的报错，不要理�
 
 |插件名|功能|下载|
 | :----: | :----: | :----: |
-| PassWall | PassWall 科学工具(更新) | [passwall4.71-2](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all/PassWall4.71-2_a53_all_sdk_22.03.5.run) |
+| PassWall | PassWall 科学工具(更新) | [passwall4.71-2](./all/PassWall4.71-2_a53_all_sdk_22.03.5.run?raw=true) |
 
 使用22.03.5sdk编译，依旧使用libopenssl1.1，无需libopenssl3依赖的4.71-2最新版passwall，安装后在服务里。
 安装后passwall日志里提示一些依赖未安装属于正常现象，不影响使用，这些依赖固件里应该都自带的。可以到【系统】-【软件包】-【已安装】里确认。
@@ -29,24 +29,24 @@ passwall和ssr-p安装最后可能会出现一堆ss相关的报错，不要理�
 
 |插件名|功能|下载|
 | :----: | :----: | :----: |
-| PassWall | PassWall 科学工具(全组件版，适合大闪存机器，体积60M左右) | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/PassWall_a53_all.run) |
-| PassWall2 | PassWall2 科学工具(全组件版，适合大闪存机器，体积45M左右) | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/PassWall2_a53_all.run) |
-| PassWall | PassWall 科学工具 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/PassWall_a53.run) |
-| SSR-Plus | ssr-plus 科学工具 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/SSR-Plus_a53.run) |
-| OpenClash | OpenClash 科学工具(自带核心) | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/OpenClash+Kernel_a53.run) |
-| ByPass | ByPass 科学工具 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/ByPass_a53.run) |
-| VSSR | HelloWorld 科学工具 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/VSSR_a53.run) |
-| AdGuardHome | AdGuardHome 去广告(带核心) | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/AdGuardHome_a53.run) |
-| ikoolproxy | koolproxy去广告(不适合高于5.4内核的固件) | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/ikoolproxy_a53.run) |
-| Adblock | Adblock 去广告 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/adblock.run) |
-| Adbyby | 广告屏蔽大师 Plus+ | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/adbyby_a53.run) |
-| UnblockNeteaseMusic | 解锁网易云灰色歌曲 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/UnblockNeteaseMusic_a53.run) |
-| OpenVPN | OpenVPN客户端 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/OpenVPN_20211018.run) |
-| OpenVPN-Server | OpenVPN服务端 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/OpenVPN-Server_a53.run) |
-| JD-dailybonus | 某东签到(扫码早就gg，手动填cookie) | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/JD-dailybonus_20211105.run) |
-| KMS | KMS服务器 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/KMS_a53.run) |
-| NPS | Nps内网穿透 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/NPS_a53.run) |
-| MosDNS | DNS 转发/分流器 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/MosDNS-New_a53.run) |
+| PassWall | PassWall 科学工具(全组件版，适合大闪存机器，体积60M左右) | [下载](./all/PassWall_a53_all.run?raw=true) |
+| PassWall2 | PassWall2 科学工具(全组件版，适合大闪存机器，体积45M左右) | [下载](./all/PassWall2_a53_all.run?raw=true) |
+| PassWall | PassWall 科学工具 | [下载](./all/PassWall_a53.run?raw=true) |
+| SSR-Plus | ssr-plus 科学工具 | [下载](./all/SSR-Plus_a53.run?raw=true) |
+| OpenClash | OpenClash 科学工具(自带核心) | [下载](./all/OpenClash+Kernel_a53.run?raw=true) |
+| ByPass | ByPass 科学工具 | [下载](./all/ByPass_a53.run?raw=true) |
+| VSSR | HelloWorld 科学工具 | [下载](./all/VSSR_a53.run?raw=true) |
+| AdGuardHome | AdGuardHome 去广告(带核心) | [下载](./all/AdGuardHome_a53.run?raw=true) |
+| ikoolproxy | koolproxy去广告(不适合高于5.4内核的固件) | [下载](./all/ikoolproxy_a53.run?raw=true) |
+| Adblock | Adblock 去广告 | [下载](./all/adblock.run?raw=true) |
+| Adbyby | 广告屏蔽大师 Plus+ | [下载](./all/adbyby_a53.run?raw=true) |
+| UnblockNeteaseMusic | 解锁网易云灰色歌曲 | [下载](./all/UnblockNeteaseMusic_a53.run?raw=true) |
+| OpenVPN | OpenVPN客户端 | [下载](./all/OpenVPN_20211018.run?raw=true) |
+| OpenVPN-Server | OpenVPN服务端 | [下载](./all/OpenVPN-Server_a53.run?raw=true) |
+| JD-dailybonus | 某东签到(扫码早就gg，手动填cookie) | [下载](./all/JD-dailybonus_20211105.run?raw=true) |
+| KMS | KMS服务器 | [下载](./all/KMS_a53.run?raw=true) |
+| NPS | Nps内网穿透 | [下载](./all/NPS_a53.run?raw=true) |
+| MosDNS | DNS 转发/分流器 | [下载](./all/MosDNS-New_a53.run?raw=true) |
 
 #### 如何安装，下载后，iStore手动安装，选择文件安装即可。
 
