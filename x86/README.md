@@ -21,6 +21,7 @@ passwall和ssr-p安装最后可能会出现一堆ss相关的报错，不要理�
 | PassWall | PassWall 科学工具(更新) | [passwall4.71-2](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all/PassWall4.71-2_x86_all_sdk_22.03.5.run) |
 
 使用22.03.5sdk编译，依旧使用libopenssl1.1，无需libopenssl3依赖的4.71-2最新版passwall，安装后在服务里。
+安装后passwall日志里提示一些依赖未安装属于正常现象，这些依赖固件里应该都自带的。可以到【系统】-【软件包】-【已安装】里确认
 
 * 一系列离线包：
 
