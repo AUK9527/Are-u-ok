@@ -6,16 +6,6 @@
 
 * aarch64_generic平台如果要兼容这些离线包，请使用iStoreOS固件，或者固件做了适配iStore。
 
-* 一些新版离线包测试：
-
-|插件名|功能|下载|
-| :----: | :----: | :----: |
-| PassWall | PassWall 科学工具(更新) | [下载新版](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/PassWall_a53_update.run) |
-| SSR-Plus | ssr-plus 科学工具(更新) | [下载新版](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/SSR-Plus_a53_update.run) |
-| OpenClash | OpenClash 科学工具(更新) | [下载新版](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/OpenClash_a53_update.run) |
-
-passwall和ssr-p安装最后可能会出现一堆ss相关的报错，不要理会，这2个插件位置会出现在VPN分类里。
-
 * 适用于KoolCenter iStoreOS 22.03.5的离线包
 
 |插件名|功能|下载|编译日期|
