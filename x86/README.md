@@ -1,10 +1,10 @@
-#### iStore扩展插件包
+#### iStore扩展软件包
 
-* 本页面所下载的离线包插件仅适用于x86_64平台的机器。
+* 本页面所下载的软件包插件仅适用于x86_64平台的机器。
 
 * 例如：各种x86、x64架构的软路由等。
 
-* 适用于KoolCenter iStoreOS 22.03.X的离线包
+* 适用于KoolCenter iStoreOS 22.03.X的软件包
 
 |插件名|功能|下载|编译日期|
 | :----: | :----: | :----: | :----: |
@@ -15,11 +15,11 @@
 | MosDNS | DNS 转发/分流器 | [mosdns_5.3.1-1](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all/mosdns_5.3.1-1_x86_64_all.run) |2023-11-06|
 | UnblockNeteaseMusic | 解锁网易云灰色歌曲 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all/unblockneteasemusic.run) |2024-01-05|
 
-使用22.03.5sdk编译，依旧使用libopenssl1.1，无需libopenssl3，安装后在服务里。
+使用 `22.03.X` sdk编译，依旧使用libopenssl1.1，无需libopenssl3，安装后在服务里。
 安装后passwall日志里提示一些依赖未安装属于正常现象，不影响使用，这些依赖固件里应该都自带的。可以到【系统】-【软件包】-【已安装】里确认。
 如果你在安装此包前通过第三方软件源安装，可能导致意外的错误，例如本不需要libopenssl3，变得需要，此情况可能需要重置你的路由器。
 
-* 一系列离线包：
+* 一系列软件包：
 
 |插件名|功能|下载|
 | :----: | :----: | :----: |

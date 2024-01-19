@@ -1,12 +1,12 @@
-#### iStore扩展插件包
+#### iStore扩展软件包
 
-* 本页面所下载的离线包插件适用于aarch64_cortex-a53平台的机器(EasePi ARS2、小米AX3600、AX9000、红米AX6等)。
+* 本页面所下载的软件包插件适用于aarch64_cortex-a53平台的机器(EasePi ARS2、小米AX3600、AX9000、红米AX6等)。
 
 * 也兼容aarch64_generic平台，例如R2S、R4S、R5S、R68S等。
 
-* aarch64_generic平台如果要兼容这些离线包，请使用iStoreOS固件，或者固件做了适配iStore。
+* aarch64_generic平台如果要兼容这些软件包，请使用iStoreOS固件，或者固件做了适配iStore。
 
-* 适用于KoolCenter iStoreOS 22.03.5的离线包
+* 适用于KoolCenter iStoreOS 22.03.X的软件包
 
 |插件名|功能|下载|编译日期|
 | :----: | :----: | :----: | :----: |
@@ -17,11 +17,11 @@
 | MosDNS | DNS 转发/分流器 | [mosdns_5.3.1-1](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/mosdns_5.3.1-1_aarch64_a53_all.run) |2023-11-06|
 | UnblockNeteaseMusic | 解锁网易云灰色歌曲 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/apps/all/unblockneteasemusic.run) |2024-01-05|
 
-使用22.03.5sdk编译，依旧使用libopenssl1.1，无需libopenssl3，安装后在服务里。
+使用 `22.03.X` sdk编译，依旧使用libopenssl1.1，无需libopenssl3，安装后在服务里。
 安装后passwall日志里提示一些依赖未安装属于正常现象，不影响使用，这些依赖固件里应该都自带的。可以到【系统】-【软件包】-【已安装】里确认。
 如果你在安装此包前通过第三方软件源安装，可能导致意外的错误，例如本不需要libopenssl3，变得需要，此情况可能需要重置你的路由器。
 
-* 一系列离线包：
+* 一系列软件包：
 
 |插件名|功能|下载|
 | :----: | :----: | :----: |
