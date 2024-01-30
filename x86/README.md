@@ -11,16 +11,15 @@
 | PassWall | 科学工具 | [PassWall_4.73-1](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all/PassWall_4.73-1_x86_64_all_sdk_22.03.6.run) |2024-01-30|
 | PassWall2 | 科学工具 | [PassWall2_1.25-1](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all/PassWall2_1.25-1_x86_64_all_sdk_22.03.6.run) |2024-01-30|
 | SSR-Plus | 科学工具 | [SSR-Plus_188-3](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all/SSR-Plus_188-3_x86_64_all_sdk_22.03.6.run) |2024-01-30|
-| OpenClash | 科学工具 | [OpenClash_0.45.157](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all/OpenClash_0.45.157+x86_64_core.run) |2023-12-02|
+| OpenClash | 科学工具 | [OpenClash_0.45.164](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all/OpenClash_0.45.164+x86_64_core.run) |2024-01-31|
 | MosDNS | DNS 转发/分流器 | [mosdns_5.3.1-1](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all/mosdns_5.3.1-1_x86_64_all.run) |2023-11-06|
 | UnblockNeteaseMusic | 解锁网易云灰色歌曲 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all/unblockneteasemusic.run) |2024-01-05|
 
 * passwall、passwall2、ssr-plus均使用 22.03.X sdk编译，依旧使用libopenssl1.1，无需libopenssl3依赖，安装后在服务里。
 * 安装后passwall日志里提示一些依赖未安装属于正常现象，不影响使用，这些依赖固件里应该都自带的。可以到【系统】-【软件包】-【已安装】里确认。
 * 如果你在安装此包前通过第三方软件源安装，可能导致意外的错误，例如本不需要libopenssl3，变得需要，此情况可能需要重置你的路由器。
-* 自带clash核心的openclash，版本为0.45.157(2023-12-02)。如果安装完出现路由器断网，重启一次路由器，这是openclash的造成的问题。
-
-**注意，上述软件包安装，部分依赖依然要通过opkg软件源在线安装。如果安装失败，检查路由器自身的网络情况，特别是旁路由模式下最容易出现网络问题。**
+* 自带clash核心的openclash，版本为0.45.164。如果安装完出现路由器断网，重启一次路由器。
+* **注意，上述软件包安装，部分依赖依然要通过opkg软件源在线安装。如果安装失败，检查路由器自身的网络情况，特别是旁路由模式下最容易出现网络问题。**
 **再三注意需要路由器自身联网正常**
 
 * 一系列软件包：
