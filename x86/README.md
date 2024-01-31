@@ -8,12 +8,12 @@
 
 |插件名|功能|下载|编译日期|
 | :----: | :----: | :----: | :----: |
-| PassWall | 科学工具 | [PassWall_4.73-1](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all/PassWall_4.73-1_x86_64_all_sdk_22.03.6.run) |2024-01-30|
-| PassWall2 | 科学工具 | [PassWall2_1.25-4](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all/PassWall2_1.25-4_x86_64_all_sdk_22.03.6.run) |2024-02-01|
-| SSR-Plus | 科学工具 | [SSR-Plus_188-3](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all/SSR-Plus_188-3_x86_64_all_sdk_22.03.6.run) |2024-01-30|
-| OpenClash | 科学工具 | [OpenClash_0.45.164](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all/OpenClash_0.45.164+x86_64_core.run) |2024-01-31|
-| MosDNS | DNS 转发/分流器 | [mosdns_5.3.1-1](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all/mosdns_5.3.1-1_x86_64_all.run) |2023-11-06|
-| UnblockNeteaseMusic | 解锁网易云灰色歌曲 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all/unblockneteasemusic.run) |2024-01-05|
+| PassWall | 科学工具 | [PassWall_4.73-1](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/PassWall_4.73-1_x86_64_all_sdk_22.03.6.run) |2024-01-30|
+| PassWall2 | 科学工具 | [PassWall2_1.25-4](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/PassWall2_1.25-4_x86_64_all_sdk_22.03.6.run) |2024-02-01|
+| SSR-Plus | 科学工具 | [SSR-Plus_188-3](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/SSR-Plus_188-3_x86_64_all_sdk_22.03.6.run) |2024-01-30|
+| OpenClash | 科学工具 | [OpenClash_0.45.164](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/OpenClash_0.45.164+x86_64_core.run) |2024-01-31|
+| MosDNS | DNS 转发/分流器 | [mosdns_5.3.1-1](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/mosdns_5.3.1-1_x86_64_all.run) |2023-11-06|
+| UnblockNeteaseMusic | 解锁网易云灰色歌曲 | [下载](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/unblockneteasemusic.run) |2024-01-05|
 
 * passwall、passwall2、ssr-plus均使用 22.03.X sdk编译，依旧使用libopenssl1.1，无需libopenssl3依赖，安装后在服务里。
 * 安装后passwall日志里提示一些依赖未安装属于正常现象，不影响使用，这些依赖固件里应该都自带的。可以到【系统】-【软件包】-【已安装】里确认。
@@ -26,16 +26,16 @@
 
 |插件名|功能|下载|
 | :----: | :----: | :----: |
-| VSSR | HelloWorld 科学工具 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all/VSSR_x86.run) |
-| ByPass | ByPass 科学工具 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all/ByPass_x86.run) |
-| ikoolproxy | koolproxy去广告(不适合高于5.4内核的固件) | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all/ikoolproxy_x86.run) |
-| adblock | adblock去广告 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all/adblock_x86.run) |
-| adbyby | adbyby去广告 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all/adbyby_x86.run) |
-| AdGuardHome | AdGuardHome 去广告(带核心) | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all/AdGuardHome_x86.run) |
-| KMS | KMS服务器 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all/KMS_x86.run) |
-| OpenVPN | OpenVPN客户端 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all/OpenVPN_x86.run) |
-| OpenVPN-Server | OpenVPN服务端 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all/OpenVPN-Server_x86.run)
-| NPS | Nps内网穿透 | [下载](https://raw.githubusercontent.com/AUK9527/Are-u-ok/main/x86/all/NPS_x86.run) |
+| VSSR | HelloWorld 科学工具 | [下载](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/VSSR_x86.run) |
+| ByPass | ByPass 科学工具 | [下载](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/ByPass_x86.run) |
+| ikoolproxy | koolproxy去广告(不适合高于5.4内核的固件) | [下载](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/ikoolproxy_x86.run) |
+| adblock | adblock去广告 | [下载](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/adblock_x86.run) |
+| adbyby | adbyby去广告 | [下载](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/adbyby_x86.run) |
+| AdGuardHome | AdGuardHome 去广告(带核心) | [下载](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/AdGuardHome_x86.run) |
+| KMS | KMS服务器 | [下载](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/KMS_x86.run) |
+| OpenVPN | OpenVPN客户端 | [下载](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/OpenVPN_x86.run) |
+| OpenVPN-Server | OpenVPN服务端 | [下载](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/OpenVPN-Server_x86.run)
+| NPS | Nps内网穿透 | [下载](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/NPS_x86.run) |
 
 #### 如何安装，下载后，iStore手动安装，选择文件安装即可。
 
