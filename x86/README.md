@@ -8,7 +8,7 @@
 
 |插件名|功能|下载|编译日期|
 | :----: | :----: | :----: | :----: |
-| PassWall | 科学工具 | [PassWall_4.73-1](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/PassWall_4.73-1_x86_64_all_sdk_22.03.6.run) |2024-01-30|
+| PassWall | 科学工具 | [PassWall_4.73-3](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/PassWall_4.73-3_x86_64_all_sdk_22.03.6.run) |2024-02-01|
 | PassWall2 | 科学工具 | [PassWall2_1.25-4](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/PassWall2_1.25-4_x86_64_all_sdk_22.03.6.run) |2024-02-01|
 | SSR-Plus | 科学工具 | [SSR-Plus_188-3](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/SSR-Plus_188-3_x86_64_all_sdk_22.03.6.run) |2024-01-30|
 | OpenClash | 科学工具 | [OpenClash_0.45.164](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/OpenClash_0.45.164+x86_64_core.run) |2024-01-31|
