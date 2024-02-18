@@ -12,6 +12,7 @@
 | PassWall2 | 科学工具 | [PassWall2_1.25-5](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/PassWall2_1.25-5_x86_64_all_sdk_22.03.6.run) |2024-02-12|
 | SSR-Plus | 科学工具 | [SSR-Plus_188-3](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/SSR-Plus_188-3_x86_64_all_sdk_22.03.6.run) |2024-01-30|
 | OpenClash | 科学工具 | [OpenClash_0.46.001](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/OpenClash_0.46.001+x86_64_core.run) |2024-02-10|
+| AdGuardHome | DNS/拦截 | [下载](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/adguardhome.run) |2024-02-18|
 | MosDNS | DNS 转发/分流器 | [mosdns_5.3.1-1](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/mosdns_5.3.1-1_x86_64_all.run) |2023-11-06|
 | UnblockNeteaseMusic | 解锁网易云灰色歌曲 | [下载](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/unblockneteasemusic.run) |2024-01-05|
 
@@ -31,7 +32,6 @@
 | ikoolproxy | koolproxy去广告(不适合高于5.4内核的固件) | [下载](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/ikoolproxy_x86.run) |
 | adblock | adblock去广告 | [下载](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/adblock_x86.run) |
 | adbyby | adbyby去广告 | [下载](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/adbyby_x86.run) |
-| AdGuardHome | AdGuardHome 去广告(带核心) | [下载](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/AdGuardHome_x86.run) |
 | KMS | KMS服务器 | [下载](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/KMS_x86.run) |
 | OpenVPN | OpenVPN客户端 | [下载](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/OpenVPN_x86.run) |
 | OpenVPN-Server | OpenVPN服务端 | [下载](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/OpenVPN-Server_x86.run)
