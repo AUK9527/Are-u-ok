@@ -1,4 +1,4 @@
-## iStore扩展软件包
+## iStore软件包 iStore .run Packages
 
 * 本页面所下载的软件包插件仅适用于x86_64平台的机器。
 
