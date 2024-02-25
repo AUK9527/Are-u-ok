@@ -9,7 +9,7 @@
 #### 常用代理软件包 Commonly Used Proxy Packages
 |插件名|功能|下载|编译日期|
 | :----: | :----: | :----: | :----: |
-| PassWall | 科学工具 | [PassWall_4.74-3](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/PassWall_4.74-3_aarch64_a53_all_sdk_22.03.6.run) |2024-02-25|
+| PassWall | 科学工具 | [PassWall_4.74-4](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/PassWall_4.74-4_aarch64_a53_all_sdk_22.03.6.run) |2024-02-25|
 | PassWall2 | 科学工具 | [PassWall2_1.26-2](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/PassWall2_1.26-2_aarch64_a53_all_sdk_22.03.6.run) |2024-02-23|
 | SSR-Plus | 科学工具 | [SSR-Plus_188-3](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/SSR-Plus_188-3_aarch64_a53_all_sdk_22.03.6.run) |2024-01-30|
 | OpenClash | 科学工具 | [OpenClash_0.46.001](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/OpenClash_0.46.001+aarch_64_core.run) |2024-02-10|
