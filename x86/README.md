@@ -35,9 +35,24 @@
 | NPS | Nps内网穿透 | [下载](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/NPS_x86.run) |N/A|
 * **AdGuardHome如果想自己配置，而不是使用默认配置，请删除 `/etc/AdGuardHome.yaml` 配置文件后，自己进行用户名，密码，web以及dns相关配置**
 
-#### 如何安装，下载后，iStore手动安装，选择文件安装即可。
-
+#### 如何安装
+* 下载后，来到iStore应用商店页面，点击手动安装，点击选择上传或者直接拖放文件
 ![png](https://cdn.jsdelivr.net/gh/AUK9527/Are-u-ok@master/apps/install.png)
+
+* 对于没有iStore应用商店的OpenWrt也可以使用以下方法。
+
+将 .run 文件上传到路由器上，然后在终端环境执行
+```console
+sh 包名.run
+```
+例
+```console
+sh PassWall_4.74-3_x86_64_all_sdk_22.03.6.run
+```
+如果文件不在当前路径记得填写路径，下例
+```console
+sh /tmp/upload/PassWall_4.74-3_x86_64_all_sdk_22.03.6.run
+```
 
 
 
