@@ -7,10 +7,10 @@
 #### 常用代理软件包 Commonly Used Proxy Packages
 |插件名|功能|下载|编译日期|
 | :----: | :----: | :----: | :----: |
-| PassWall | 科学工具 | [PassWall_4.75-6](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/PassWall_4.75-6_x86_64_all_sdk_22.03.6.run) |2024-03-06|
-| PassWall2 | 科学工具 | [PassWall2_1.27-4](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/PassWall2_1.27-4_x86_64_all_sdk_22.03.6.run) |2024-03-07|
+| PassWall | 科学工具 | [PassWall_4.75-8](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/PassWall_4.75-8_x86_64_all_sdk_22.03.6.run) |2024-03-10|
+| PassWall2 | 科学工具 | [PassWall2_1.27-5](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/PassWall2_1.27-5_x86_64_all_sdk_22.03.6.run) |2024-03-10|
 | SSR-Plus | 科学工具 | [SSR-Plus_188-3](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/SSR-Plus_188-3_x86_64_all_sdk_22.03.6.run) |2024-01-30|
-| OpenClash | 科学工具 | [OpenClash_0.46.001](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/OpenClash_0.46.001+x86_64_core.run) |2024-02-10|
+| OpenClash | 科学工具 | [OpenClash_0.46.003](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/OpenClash_0.46.003+x86_64_core.run) |2024-03-09|
 * passwall、passwall2、ssr-plus均使用 22.03.X sdk编译，依旧使用libopenssl1.1，无需libopenssl3依赖，安装后在服务里。
 * 安装后passwall日志里提示一些依赖未安装属于正常现象，不影响使用，这些依赖固件里应该都自带的。可以到【系统】-【软件包】-【已安装】里确认。
 * 如果你在安装此包前通过第三方软件源安装，可能导致意外的错误，例如本不需要libopenssl3，变得需要，此情况可能需要重置你的路由器。
@@ -47,11 +47,11 @@ sh 包名.run
 ```
 例
 ```console
-sh PassWall_4.74-3_x86_64_all_sdk_22.03.6.run
+sh PassWall_4.75-8_x86_64_all_sdk_22.03.6.run
 ```
 如果文件不在当前路径记得填写路径，下例
 ```console
-sh /tmp/upload/PassWall_4.74-3_x86_64_all_sdk_22.03.6.run
+sh /tmp/upload/PassWall_4.75-8_x86_64_all_sdk_22.03.6.run
 ```
 
 
