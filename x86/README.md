@@ -9,7 +9,7 @@
 | :----: | :----: | :----: | :----: |
 | PassWall | 科学工具 | [PassWall_4.75-9](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/PassWall_4.75-9_x86_64_all_sdk_22.03.6.run) |2024-03-12|
 | PassWall2 | 科学工具 | [PassWall2_1.27-5](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/PassWall2_1.27-5_x86_64_all_sdk_22.03.6.run) |2024-03-10|
-| SSR-Plus | 科学工具 | [SSR-Plus_188-3](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/SSR-Plus_188-3_x86_64_all_sdk_22.03.6.run) |2024-01-30|
+| SSR-Plus | 科学工具 | [SSR-Plus_188-3](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/SSR-Plus_188-3_x86_64_all_sdk_22.03.6.run) |2024-03-12|
 | OpenClash | 科学工具 | [OpenClash_0.46.003](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/OpenClash_0.46.003+x86_64_core.run) |2024-03-09|
 * passwall、passwall2、ssr-plus均使用 22.03.X sdk编译，依旧使用libopenssl1.1，无需libopenssl3依赖，安装后在服务里。
 * 安装后passwall日志里提示一些依赖未安装属于正常现象，不影响使用，这些依赖固件里应该都自带的。可以到【系统】-【软件包】-【已安装】里确认。
