@@ -10,7 +10,7 @@
 |插件名|功能|下载|编译日期|
 | :----: | :----: | :----: | :----: |
 | PassWall | 科学工具 | [PassWall_4.75-9](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/PassWall_4.75-9_aarch64_a53_all_sdk_22.03.6.run) |2024-03-12|
-| PassWall2 | 科学工具 | [PassWall2_1.27-5](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/PassWall2_1.27-5_aarch64_a53_all_sdk_22.03.6.run) |2024-03-10|
+| PassWall2 | 科学工具 | [PassWall2_1.28-1](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/PassWall2_1.28-1_aarch64_a53_all_sdk_22.03.6.run) |2024-03-15|
 | SSR-Plus | 科学工具 | [SSR-Plus_188-3](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/SSR-Plus_188-3_aarch64_a53_all_sdk_22.03.6.run) |2024-03-12|
 | OpenClash | 科学工具 | [OpenClash_0.46.003](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/OpenClash_0.46.003+aarch_64_core.run) |2024-03-09|
 * passwall、passwall2、ssr-plus均使用 22.03.X sdk编译，依旧使用libopenssl1.1，无需libopenssl3依赖，安装后在服务里。
