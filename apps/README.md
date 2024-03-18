@@ -23,7 +23,7 @@
 #### 其它软件包 Other Packages
 |插件名|功能|下载|编译日期|
 | :----: | :----: | :----: | :----: |
-| AdGuardHome | DNS/拦截 | [下载](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/adguardhome.run) |2024-02-18|
+| AdGuardHome | DNS/拦截 | [下载](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/adguardhome.run) |2024-03-17|
 | MosDNS | DNS 转发/分流器 | [mosdns_5.3.1-1](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/mosdns_5.3.1-1_aarch64_a53_all.run) |2024-02-26|
 | UnblockNeteaseMusic | 解锁网易云灰色歌曲 | [下载](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/unblockneteasemusic.run) |2024-01-05|
 | ByPass | ByPass 科学工具 | [下载](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/ByPass_a53.run) |N/A|
