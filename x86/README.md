@@ -12,6 +12,7 @@
 | [SSR-Plus](https://github.com/fw876/helloworld) | 科学工具 | [SSR-Plus_188](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/SSR-Plus_188_x86_64_all_sdk_22.03.6.run) |2024-03-30|
 | [OpenClash](https://github.com/vernesong/OpenClash) | 科学工具 | [OpenClash_0.46.003](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/OpenClash_0.46.003+x86_64_core.run) |2024-03-09|
 * passwall、passwall2、ssr-plus均使用 22.03.X sdk编译，依旧使用libopenssl1.1，无需libopenssl3依赖，安装后在服务里。
+* 不推荐passwall系列和ssr-plus一同安装，因为部分软件包可能存在冲突影响使用
 * 安装后passwall日志里提示一些依赖未安装属于正常现象，不影响使用，这些依赖固件里应该都自带的。可以到【系统】-【软件包】-【已安装】里确认。
 * 如果你在安装此包前通过第三方软件源安装，可能导致意外的错误，例如本不需要libopenssl3，变得需要，此情况可能需要重置你的路由器。
 * 自带clash核心的openclash，版本为0.46.001。如果安装完出现路由器断网，重启一次路由器。
