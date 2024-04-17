@@ -7,10 +7,10 @@
 #### 常用代理软件包 Commonly Used Proxy Packages
 |插件名|功能|下载|编译日期|
 | :----: | :----: | :----: | :----: |
-| PassWall | 科学工具 | [PassWall_4.76-1](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/PassWall_4.76-1_x86_64_all_sdk_22.03.6.run) |2024-03-21|
-| PassWall2 | 科学工具 | [PassWall2_1.28-4](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/PassWall2_1.28-4_x86_64_all_sdk_22.03.6.run) |2024-03-21|
-| SSR-Plus | 科学工具 | [SSR-Plus_188-3](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/SSR-Plus_188-3_x86_64_all_sdk_22.03.6.run) |2024-03-12|
-| OpenClash | 科学工具 | [OpenClash_0.46.003](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/OpenClash_0.46.003+x86_64_core.run) |2024-03-09|
+| [PassWall](https://github.com/xiaorouji/openwrt-passwall) | 科学工具 | [PassWall_4.76-5](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/PassWall_4.76-5_x86_64_all_sdk_22.03.6.run) |2024-04-17|
+| [PassWall2](https://github.com/xiaorouji/openwrt-passwall2) | 科学工具 | [PassWall2_1.28-7](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/PassWall2_1.28-7_x86_64_all_sdk_22.03.6.run) |2024-04-17|
+| [SSR-Plus](https://github.com/fw876/helloworld) | 科学工具 | [SSR-Plus_188](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/SSR-Plus_188_x86_64_all_sdk_22.03.6.run) |2024-03-30|
+| [OpenClash](https://github.com/vernesong/OpenClash) | 科学工具 | [OpenClash_0.46.003](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/OpenClash_0.46.003+x86_64_core.run) |2024-03-09|
 * passwall、passwall2、ssr-plus均使用 22.03.X sdk编译，依旧使用libopenssl1.1，无需libopenssl3依赖，安装后在服务里。
 * 安装后passwall日志里提示一些依赖未安装属于正常现象，不影响使用，这些依赖固件里应该都自带的。可以到【系统】-【软件包】-【已安装】里确认。
 * 如果你在安装此包前通过第三方软件源安装，可能导致意外的错误，例如本不需要libopenssl3，变得需要，此情况可能需要重置你的路由器。
@@ -21,9 +21,9 @@
 #### 其它软件包 Other Packages
 |插件名|功能|下载|编译日期|
 | :----: | :----: | :----: | :----: |
-| AdGuardHome | DNS/拦截 | [下载](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/adguardhome.run) |2024-03-17|
-| MosDNS | DNS 转发/分流器 | [mosdns_5.3.1-1](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/mosdns_5.3.1-1_x86_64_all.run) |2024-02-26|
-| UnblockNeteaseMusic | 解锁网易云灰色歌曲 | [下载](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/unblockneteasemusic.run) |2024-01-05|
+| [AdGuardHome](https://github.com/sirpdboy/sirpdboy-package) | DNS/拦截 | [下载](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/adguardhome.run) |2024-03-17|
+| [MosDNS](https://github.com/sbwml/luci-app-mosdns) | DNS 转发/分流器 | [mosdns_5.3.1-1](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/mosdns_5.3.1-1_x86_64_all.run) |2024-02-26|
+| [UnblockNeteaseMusic](https://github.com/UnblockNeteaseMusic/luci-app-unblockneteasemusic) | 解锁网易云灰色歌曲 | [下载](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/unblockneteasemusic.run) |2024-01-05|
 | VSSR | HelloWorld 科学工具 | [下载](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/VSSR_x86.run) |N/A|
 | ByPass | ByPass 科学工具 | [下载](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/ByPass_x86.run) |N/A|
 | ikoolproxy | koolproxy去广告(不适合高于5.4内核的固件) | [下载](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/ikoolproxy_x86.run) |N/A|
