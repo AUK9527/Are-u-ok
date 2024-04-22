@@ -7,7 +7,7 @@
 #### 常用代理软件包 Commonly Used Proxy Packages
 |插件名|功能|下载|编译日期|
 | :----: | :----: | :----: | :----: |
-| [PassWall](https://github.com/xiaorouji/openwrt-passwall) | 科学工具 | [PassWall_4.77-2](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/PassWall_4.77-2_x86_64_all_sdk_22.03.6.run) |2024-04-20|
+| [PassWall](https://github.com/xiaorouji/openwrt-passwall) | 科学工具 | [PassWall_4.77-3](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/PassWall_4.77-3_x86_64_all_sdk_22.03.6.run) |2024-04-20|
 | [PassWall2](https://github.com/xiaorouji/openwrt-passwall2) | 科学工具 | [PassWall2_1.28-7](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/PassWall2_1.28-7_x86_64_all_sdk_22.03.6.run) |2024-04-17|
 | [SSR-Plus](https://github.com/fw876/helloworld) | 科学工具 | [SSR-Plus_188](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/SSR-Plus_188_x86_64_all_sdk_22.03.6.run) |2024-03-30|
 | [OpenClash](https://github.com/vernesong/OpenClash) | 科学工具 | [OpenClash_0.46.003](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/OpenClash_0.46.003+x86_64_core.run) |2024-03-09|
@@ -22,7 +22,7 @@
 #### 其它软件包 Other Packages
 |插件名|功能|下载|编译日期|
 | :----: | :----: | :----: | :----: |
-| [AdGuardHome](https://github.com/sirpdboy/sirpdboy-package) | DNS/拦截 | [下载](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/adguardhome.run) |2024-03-17|
+| [AdGuardHome](https://github.com/sirpdboy/sirpdboy-package) | DNS/拦截 | [下载](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/adguardhome.run) |2024-04-22|
 | [MosDNS](https://github.com/sbwml/luci-app-mosdns) | DNS 转发/分流器 | [mosdns_5.3.1-1](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/mosdns_5.3.1-1_x86_64_all.run) |2024-02-26|
 | [UnblockNeteaseMusic](https://github.com/UnblockNeteaseMusic/luci-app-unblockneteasemusic) | 解锁网易云灰色歌曲 | [下载](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/unblockneteasemusic.run) |2024-01-05|
 | VSSR | HelloWorld 科学工具 | [下载](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/VSSR_x86.run) |N/A|
@@ -34,7 +34,6 @@
 | OpenVPN | OpenVPN客户端 | [下载](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/OpenVPN_x86.run) |N/A|
 | OpenVPN-Server | OpenVPN服务端 | [下载](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/OpenVPN-Server_x86.run) |N/A|
 | NPS | Nps内网穿透 | [下载](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/NPS_x86.run) |N/A|
-* **AdGuardHome如果想自己配置，而不是使用默认配置，请删除 `/etc/AdGuardHome.yaml` 配置文件后，自己进行用户名，密码，web以及dns相关配置**
 
 #### 如何安装
 * 下载后，来到iStore应用商店页面，点击手动安装，点击选择上传或者直接拖放文件
