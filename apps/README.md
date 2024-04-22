@@ -9,7 +9,7 @@
 #### 常用代理软件包 Commonly Used Proxy Packages
 |插件名|功能|下载|编译日期|
 | :----: | :----: | :----: | :----: |
-| [PassWall](https://github.com/xiaorouji/openwrt-passwall) | 科学工具 | [PassWall_4.77-2](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/PassWall_4.77-2_aarch64_a53_all_sdk_22.03.6.run) |2024-04-20|
+| [PassWall](https://github.com/xiaorouji/openwrt-passwall) | 科学工具 | [PassWall_4.77-3](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/PassWall_4.77-3_aarch64_a53_all_sdk_22.03.6.run) |2024-04-20|
 | [PassWall2](https://github.com/xiaorouji/openwrt-passwall2) | 科学工具 | [PassWall2_1.28-7](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/PassWall2_1.28-7_aarch64_a53_all_sdk_22.03.6.run) |2024-04-17|
 | [SSR-Plus](https://github.com/fw876/helloworld) | 科学工具 | [SSR-Plus_188](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/SSR-Plus_188_aarch64_a53_all_sdk_22.03.6.run) |2024-03-30|
 | [OpenClash](https://github.com/vernesong/OpenClash) | 科学工具 | [OpenClash_0.46.003](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/OpenClash_0.46.003+aarch_64_core.run) |2024-03-09|
@@ -24,7 +24,7 @@
 #### 其它软件包 Other Packages
 |插件名|功能|下载|编译日期|
 | :----: | :----: | :----: | :----: |
-| [AdGuardHome](https://github.com/sirpdboy/sirpdboy-package) | DNS/拦截 | [下载](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/adguardhome.run) |2024-03-17|
+| [AdGuardHome](https://github.com/sirpdboy/sirpdboy-package) | DNS/拦截 | [下载](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/adguardhome.run) |2024-04-22|
 | [MosDNS](https://github.com/sbwml/luci-app-mosdns) | DNS 转发/分流器 | [mosdns_5.3.1-1](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/mosdns_5.3.1-1_aarch64_a53_all.run) |2024-02-26|
 | [UnblockNeteaseMusic](https://github.com/UnblockNeteaseMusic/luci-app-unblockneteasemusic) | 解锁网易云灰色歌曲 | [下载](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/unblockneteasemusic.run) |2024-01-05|
 | ByPass | ByPass 科学工具 | [下载](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/ByPass_a53.run) |N/A|
@@ -37,7 +37,6 @@
 | JD-dailybonus | 某东签到(扫码早就gg，手动填cookie) | [下载](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/JD-dailybonus_20211105.run) |N/A|
 | KMS | KMS服务器 | [下载](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/KMS_a53.run) |N/A|
 | NPS | Nps内网穿透 | [下载](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/NPS_a53.run) |N/A|
-* **AdGuardHome如果想自己配置，而不是使用默认配置，请删除 `/etc/AdGuardHome.yaml` 配置文件后，自己进行用户名，密码，web以及dns相关配置**
 
 #### 如何安装
 * 下载后，来到iStore应用商店页面，点击手动安装，点击选择上传或者直接拖放文件
