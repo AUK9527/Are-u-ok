@@ -22,7 +22,7 @@
 #### 其它软件包 Other Packages
 |插件名|功能|下载|编译日期|
 | :----: | :----: | :----: | :----: |
-| [AdGuardHome](https://github.com/sirpdboy/sirpdboy-package) | DNS/拦截 | [下载](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/adguardhome.run) |2024-04-22|
+| [AdGuardHome](https://github.com/sirpdboy/sirpdboy-package) | DNS/拦截 | [下载](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/adguardhome.run) |2024-06-30|
 | [MosDNS](https://github.com/sbwml/luci-app-mosdns) | DNS 转发/分流器 | [mosdns_5.3.1-1](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/mosdns_5.3.1-1_x86_64_all.run) |2024-02-26|
 | [UnblockNeteaseMusic](https://github.com/UnblockNeteaseMusic/luci-app-unblockneteasemusic) | 解锁网易云灰色歌曲 | [下载](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/unblockneteasemusic.run) |2024-01-05|
 | VSSR | HelloWorld 科学工具 | [下载](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/VSSR_x86.run) |N/A|
