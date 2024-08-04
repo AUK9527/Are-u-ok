@@ -9,10 +9,10 @@
 #### 常用代理软件包 Commonly Used Proxy Packages
 |插件名|功能|下载|编译日期|
 | :----: | :----: | :----: | :----: |
-| [PassWall](https://github.com/xiaorouji/openwrt-passwall) | 科学工具 | [PassWall_4.78-1](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/PassWall_4.78-1_aarch64_a53_all_sdk_22.03.6.run) |2024-07-18|
-| [PassWall](https://github.com/xiaorouji/openwrt-passwall) | 科学工具 | [给小储存硬路由的PassWall](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/PassWall_4.78-1_aarch64_a53_small_sdk_22.03.6.run) |2024-07-18|
-| [PassWall2](https://github.com/xiaorouji/openwrt-passwall2) | 科学工具 | [PassWall2_1.30-3](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/PassWall2_1.30-3_aarch64_a53_all_sdk_22.03.6.run) |2024-07-18|
-| [SSR-Plus](https://github.com/fw876/helloworld) | 科学工具 | [SSR-Plus_188](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/SSR-Plus_188_aarch64_a53_all_sdk_22.03.6.run) |2024-06-30|
+| [PassWall](https://github.com/xiaorouji/openwrt-passwall) | 科学工具 | [PassWall_4.78-1](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/PassWall_4.78-1_aarch64_a53_all_sdk_22.03.7.run) |2024-08-04|
+| [PassWall](https://github.com/xiaorouji/openwrt-passwall) | 科学工具 | [给小储存硬路由的PassWall](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/PassWall_4.78-1_aarch64_a53_small_sdk_22.03.7.run) |2024-08-04|
+| [PassWall2](https://github.com/xiaorouji/openwrt-passwall2) | 科学工具 | [PassWall2_1.30-3](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/PassWall2_1.30-3_aarch64_a53_all_sdk_22.03.7.run) |2024-08-04|
+| [SSR-Plus](https://github.com/fw876/helloworld) | 科学工具 | [SSR-Plus_188](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/SSR-Plus_188_aarch64_a53_all_sdk_22.03.7.run) |2024-08-04|
 | [OpenClash](https://github.com/vernesong/OpenClash) | 科学工具 | [OpenClash_0.46.014](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/OpenClash_0.46.014+aarch_64_core.run) |2024-06-10|
 * passwall、passwall2、ssr-plus均使用 22.03.X sdk编译，依旧使用libopenssl1.1，无需libopenssl3依赖，安装后在服务里。
 * 不推荐passwall系列和ssr-plus一同安装，因为部分软件包可能存在冲突影响使用
