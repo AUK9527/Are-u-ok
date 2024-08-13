@@ -9,9 +9,10 @@
 #### 常用代理软件包 Commonly Used Proxy Packages
 |插件名|功能|下载|编译日期|
 | :----: | :----: | :----: | :----: |
-| [PassWall](https://github.com/xiaorouji/openwrt-passwall) | 科学工具 | [PassWall_4.77-6](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/PassWall_4.77-6_aarch64_a53_all_sdk_22.03.6.run) |2024-05-31|
-| [PassWall2](https://github.com/xiaorouji/openwrt-passwall2) | 科学工具 | [PassWall2_1.29-1](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/PassWall2_1.29-1_aarch64_a53_all_sdk_22.03.6.run) |2024-05-31|
-| [SSR-Plus](https://github.com/fw876/helloworld) | 科学工具 | [SSR-Plus_188](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/SSR-Plus_188_aarch64_a53_all_sdk_22.03.6.run) |2024-06-01|
+| [PassWall](https://github.com/xiaorouji/openwrt-passwall) | 科学工具 | [PassWall_4.78-1](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/PassWall_4.78-1_aarch64_a53_all_sdk_22.03.7.run) |2024-08-04|
+| [PassWall](https://github.com/xiaorouji/openwrt-passwall) | 科学工具 | [给小储存硬路由的PassWall](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/PassWall_4.78-1_aarch64_a53_small_sdk_22.03.7.run) |2024-08-04|
+| [PassWall2](https://github.com/xiaorouji/openwrt-passwall2) | 科学工具 | [PassWall2_1.30-3](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/PassWall2_1.30-3_aarch64_a53_all_sdk_22.03.7.run) |2024-08-04|
+| [SSR-Plus](https://github.com/fw876/helloworld) | 科学工具 | [SSR-Plus_188](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/SSR-Plus_188_aarch64_a53_all_sdk_22.03.7.run) |2024-08-04|
 | [OpenClash](https://github.com/vernesong/OpenClash) | 科学工具 | [OpenClash_0.46.014](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/OpenClash_0.46.014+aarch_64_core.run) |2024-06-10|
 * passwall、passwall2、ssr-plus均使用 22.03.X sdk编译，依旧使用libopenssl1.1，无需libopenssl3依赖，安装后在服务里。
 * 不推荐passwall系列和ssr-plus一同安装，因为部分软件包可能存在冲突影响使用
@@ -24,7 +25,7 @@
 #### 其它软件包 Other Packages
 |插件名|功能|下载|编译日期|
 | :----: | :----: | :----: | :----: |
-| [AdGuardHome](https://github.com/sirpdboy/sirpdboy-package) | DNS/拦截 | [下载](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/adguardhome.run) |2024-04-22|
+| [AdGuardHome](https://github.com/sirpdboy/sirpdboy-package) | DNS/拦截 | [下载](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/adguardhome.run) |2024-06-30|
 | [MosDNS](https://github.com/sbwml/luci-app-mosdns) | DNS 转发/分流器 | [mosdns_5.3.1-1](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/mosdns_5.3.1-1_aarch64_a53_all.run) |2024-02-26|
 | [UnblockNeteaseMusic](https://github.com/UnblockNeteaseMusic/luci-app-unblockneteasemusic) | 解锁网易云灰色歌曲 | [下载](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/unblockneteasemusic.run) |2024-01-05|
 | ByPass | ByPass 科学工具 | [下载](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/ByPass_a53.run) |N/A|
