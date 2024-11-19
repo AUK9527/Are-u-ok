@@ -7,8 +7,8 @@
 #### 常用代理软件包 Commonly Used Proxy Packages
 |插件名|功能|下载|编译日期|
 | :----: | :----: | :----: | :----: |
-| [PassWall](https://github.com/xiaorouji/openwrt-passwall) | 科学工具 | [PassWall_4.78-4](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/PassWall_4.78-4_x86_64_all_sdk_22.03.7.run) |2024-11-01|
-| [PassWall2](https://github.com/xiaorouji/openwrt-passwall2) | 科学工具 | [PassWall2_24.11.13](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/PassWall2_24.11.13_x86_64_all_sdk_22.03.7.run) |2024-11-14|
+| [PassWall](https://github.com/xiaorouji/openwrt-passwall) | 科学工具 | [PassWall_24.11.18](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/PassWall_24.11.18_x86_64_all_sdk_22.03.7.run) |2024-11-19|
+| [PassWall2](https://github.com/xiaorouji/openwrt-passwall2) | 科学工具 | [PassWall2_24.11.18](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/PassWall2_24.11.18_x86_64_all_sdk_22.03.7.run) |2024-11-19|
 | [SSR-Plus](https://github.com/fw876/helloworld) | 科学工具 | [SSR-Plus_188](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/SSR-Plus_188_x86_64_all_sdk_22.03.7.run) |2024-10-06|
 | [OpenClash](https://github.com/vernesong/OpenClash) | 科学工具 | [OpenClash_0.46.050](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/OpenClash_0.46.050+x86_64_core.run) |2024-11-09|
 * passwall、passwall2、ssr-plus均使用 22.03.X sdk编译，依旧使用libopenssl1.1，无需libopenssl3依赖，安装后在服务里。
@@ -46,11 +46,11 @@ sh 包名.run
 ```
 例
 ```console
-sh PassWall_4.75-8_x86_64_all_sdk_22.03.6.run
+sh PassWall_24.11.18_x86_64_all_sdk_22.03.6.run
 ```
 如果文件不在当前路径记得填写路径，下例
 ```console
-sh /tmp/upload/PassWall_4.75-8_x86_64_all_sdk_22.03.6.run
+sh /tmp/upload/PassWall_24.11.18_x86_64_all_sdk_22.03.6.run
 ```
 
 
