@@ -9,15 +9,14 @@
 #### 常用代理软件包 Commonly Used Proxy Packages
 |插件名|功能|下载|编译日期|
 | :----: | :----: | :----: | :----: |
-| [PassWall](https://github.com/xiaorouji/openwrt-passwall) | 科学工具 | [PassWall_24.11.18](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/PassWall_24.11.18_aarch64_a53_all_sdk_22.03.7.run) |2024-11-19|
-| [PassWall](https://github.com/xiaorouji/openwrt-passwall) | 科学工具 | [给小储存硬路由的PassWall](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/PassWall_24.11.18_aarch64_a53_small_sdk_22.03.7.run) |2024-11-19|
-| [PassWall2](https://github.com/xiaorouji/openwrt-passwall2) | 科学工具 | [PassWall2_24.11.18](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/PassWall2_24.11.18_aarch64_a53_all_sdk_22.03.7.run) |2024-11-19|
+| [PassWall](https://github.com/xiaorouji/openwrt-passwall) | 科学工具 | [PassWall_24.11.23](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/PassWall_24.11.23_aarch64_a53_all_sdk_22.03.7.run) |2024-11-24|
+| [PassWall](https://github.com/xiaorouji/openwrt-passwall) | 科学工具 | [给小储存硬路由的PassWall](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/PassWall_24.11.23_aarch64_a53_small_sdk_22.03.7.run) |2024-11-24|
+| [PassWall2](https://github.com/xiaorouji/openwrt-passwall2) | 科学工具 | [PassWall2_24.11.19](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/PassWall2_24.11.19_aarch64_a53_all_sdk_22.03.7.run) |2024-11-24|
 | [SSR-Plus](https://github.com/fw876/helloworld) | 科学工具 | [SSR-Plus_188](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/SSR-Plus_188_aarch64_a53_all_sdk_22.03.7.run) |2024-10-06|
 | [OpenClash](https://github.com/vernesong/OpenClash) | 科学工具 | [OpenClash_0.46.050](https://github.com/AUK9527/Are-u-ok/raw/main/apps/all/OpenClash_0.46.050+aarch_64_core.run) |2024-11-19|
 * passwall、passwall2、ssr-plus均使用 22.03.X sdk编译，依旧使用libopenssl1.1，无需libopenssl3依赖，安装后在服务里。
 * 不推荐passwall系列和ssr-plus一同安装，因为部分软件包可能存在冲突影响使用
 * 如果你在安装此包前通过第三方软件源安装，可能导致意外的错误，例如本不需要libopenssl3，变得需要，此情况可能需要重置你的路由器。
-* 自带clash核心的openclash，版本为0.46.050。
 * **注意，上述软件包安装，部分依赖依然要通过opkg软件源在线安装。如果安装失败，检查路由器自身的网络情况，特别是旁路由模式下最容易出现网络问题。**
 * **再三注意需要路由器自身联网正常**
 
