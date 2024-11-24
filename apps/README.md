@@ -49,9 +49,9 @@ sh 包名.run
 ```
 例
 ```console
-sh PassWall_24.11.18_aarch64_a53_all_sdk_22.03.6.run
+sh PassWall_24.11.23_aarch64_a53_all_sdk_22.03.6.run
 ```
 如果文件不在当前路径记得填写路径，下例
 ```console
-sh /tmp/upload/PassWall_24.11.18_aarch64_a53_all_sdk_22.03.6.run
+sh /tmp/upload/PassWall_24.11.23_aarch64_a53_all_sdk_22.03.6.run
 ```
