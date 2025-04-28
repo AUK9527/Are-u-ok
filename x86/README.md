@@ -7,10 +7,10 @@
 #### 常用代理软件包 Commonly Used Proxy Packages
 |插件名|功能|下载|编译日期|
 | :----: | :----: | :----: | :----: |
-| [PassWall](https://github.com/xiaorouji/openwrt-passwall) | 科学工具 | [PassWall_25.1.1](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/PassWall_25.1.1_x86_64_all_sdk_22.03.7.run) |2025-01-02|
-| [PassWall2](https://github.com/xiaorouji/openwrt-passwall2) | 科学工具 | [PassWall2_25.1.1](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/PassWall2_25.1.1_x86_64_all_sdk_22.03.7.run) |2025-01-02|
-| [SSR-Plus](https://github.com/fw876/helloworld) | 科学工具 | [SSR-Plus_189](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/SSR-Plus_189_x86_64_all_sdk_22.03.7.run) |2024-12-04|
-| [OpenClash](https://github.com/vernesong/OpenClash) | 科学工具 | [OpenClash_0.46.064](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/OpenClash_0.46.064+x86_64_core.run) |2024-12-31|
+| [PassWall](https://github.com/xiaorouji/openwrt-passwall) | 科学工具 | [PassWall_25.4.20](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/PassWall_25.4.20_x86_64_all_sdk_22.03.7.run) |2025-04-20|
+| [PassWall2](https://github.com/xiaorouji/openwrt-passwall2) | 科学工具 | [PassWall2_25.4.22](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/PassWall2_25.4.22_x86_64_all_sdk_22.03.7.run) |2025-04-22|
+| [SSR-Plus](https://github.com/fw876/helloworld) | 科学工具 | [SSR-Plus_189](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/SSR-Plus_189_x86_64_all_sdk_22.03.7.run) |2025-03-14|
+| [OpenClash](https://github.com/vernesong/OpenClash) | 科学工具 | [OpenClash_0.46.079](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/OpenClash_0.46.079+x86_64_core.run) |2025-03-14|
 * passwall、passwall2、ssr-plus均使用 22.03.X sdk编译，依旧使用libopenssl1.1，无需libopenssl3依赖，安装后在服务里。
 * 不推荐passwall系列和ssr-plus一同安装，因为部分软件包可能存在冲突影响使用
 * 如果你在安装此包前通过第三方软件源安装，可能导致意外的错误，例如本不需要libopenssl3，变得需要，此情况可能需要重置你的路由器。
@@ -23,11 +23,6 @@
 | [AdGuardHome](https://github.com/sirpdboy/sirpdboy-package) | DNS/拦截 | [下载](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/adguardhome.run) |2024-06-30|
 | [MosDNS](https://github.com/sbwml/luci-app-mosdns) | DNS 转发/分流器 | [mosdns_5.3.3-3](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/mosdns_5.3.3-3_x86_64_luci_1.6.8_all.run) |2024-12-17|
 | [UnblockNeteaseMusic](https://github.com/UnblockNeteaseMusic/luci-app-unblockneteasemusic) | 解锁网易云灰色歌曲 | [下载](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/unblockneteasemusic.run) |2024-12-24|
-| VSSR | HelloWorld 科学工具 | [下载](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/VSSR_x86.run) |N/A|
-| ByPass | ByPass 科学工具 | [下载](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/ByPass_x86.run) |N/A|
-| ikoolproxy | koolproxy去广告(不适合高于5.4内核的固件) | [下载](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/ikoolproxy_x86.run) |N/A|
-| adblock | adblock去广告 | [下载](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/adblock_x86.run) |N/A|
-| adbyby | adbyby去广告 | [下载](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/adbyby_x86.run) |N/A|
 | KMS | KMS服务器 | [下载](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/KMS_x86.run) |N/A|
 | OpenVPN | OpenVPN客户端 | [下载](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/OpenVPN_x86.run) |N/A|
 | OpenVPN-Server | OpenVPN服务端 | [下载](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/OpenVPN-Server_x86.run) |N/A|
