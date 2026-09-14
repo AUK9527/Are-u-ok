@@ -13,6 +13,12 @@
 
 * [其他插件](https://github.com/bcseputetto/Are-u-ok/blob/master/packages_24.10/README.md)
 
+#### iStore 第三方插件包（25.12）
+
+* [爬梯插件](https://github.com/bcseputetto/Are-u-ok/releases/tag/iStoreOS_25.12)
+
+* [其他插件](https://github.com/bcseputetto/Are-u-ok/blob/master/packages_25.12.md)
+
 #### 插件维护：
 目前插件都是由 [bcseputetto](https://github.com/bcseputetto/Are-u-ok) 维护，感谢！！！
 

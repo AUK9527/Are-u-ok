@@ -7,10 +7,10 @@
 #### 常用代理软件包 Commonly Used Proxy Packages
 |插件名|功能|下载|编译日期|
 | :----: | :----: | :----: | :----: |
-| [PassWall](https://github.com/Openwrt-Passwall/openwrt-passwall) | 科学工具 | [PassWall_26.7.1](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/PassWall_26.7.1_x86_64_all_sdk_22.03.7.run) |2026-07-01|
-| [PassWall2](https://github.com/Openwrt-Passwall/openwrt-passwall2) | 科学工具 | [PassWall2_26.6.16](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/PassWall2_26.6.16_x86_64_all_sdk_22.03.7.run) |2026-06-18|
-| [SSR-Plus](https://github.com/fw876/helloworld) | 科学工具 | [SSR-Plus_196-2](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/SSR-Plus_196-2_x86_64_all_sdk_22.03.7.run) |2026-07-01|
-| [OpenClash](https://github.com/vernesong/OpenClash) | 科学工具 | [OpenClash_0.47.110](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/OpenClash_0.47.110+x86_64_core.run) |2026-06-30|
+| [PassWall](https://github.com/Openwrt-Passwall/openwrt-passwall) | 科学工具 | [PassWall_26.9.9](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/PassWall_26.9.9_x86_64_all_sdk_22.03.7.run) |2026-09-09|
+| [PassWall2](https://github.com/Openwrt-Passwall/openwrt-passwall2) | 科学工具 | [PassWall2_26.9.12](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/PassWall2_26.9.12_x86_64_all_sdk_22.03.7.run) |2026-09-14|
+| [SSR-Plus](https://github.com/fw876/helloworld) | 科学工具 | [SSR-Plus_196-7](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/SSR-Plus_196-7_x86_64_all_sdk_22.03.7.run) |2026-08-17|
+| [OpenClash](https://github.com/vernesong/OpenClash) | 科学工具 | [OpenClash_0.47.156](https://github.com/AUK9527/Are-u-ok/raw/main/x86/all/OpenClash_0.47.156+x86_64_core.run) |2026-08-11|
 * 不推荐passwall系列和ssr-plus一同安装，因为部分软件包可能存在冲突影响使用
 * 如果你在安装此包前尝试通过第三方软件源安装，可能导致意外的错误。推荐你删除所有自行添加的第三方软件源。
 * **注意，上述软件包安装，部分依赖依然要通过opkg软件源在线安装。如果安装失败，检查路由器自身的网络情况，特别是旁路由模式下最容易出现网络问题。**
@@ -39,11 +39,11 @@ sh 包名.run
 ```
 例
 ```console
-sh PassWall_26.7.1_x86_64_all_sdk_22.03.7.run
+sh PassWall_26.9.9_x86_64_all_sdk_22.03.7.run
 ```
 如果文件不在当前路径记得填写路径，下例
 ```console
-sh /tmp/upload/PassWall_26.7.1_x86_64_all_sdk_22.03.7.run
+sh /tmp/upload/PassWall_26.9.9_x86_64_all_sdk_22.03.7.run
 ```
 
 
