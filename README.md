@@ -19,6 +19,12 @@
 
 * [其他插件](https://github.com/bcseputetto/Are-u-ok/blob/master/packages_25.12.md)
 
+#### MeowX 在线安装包（24.10 / 25.12，全架构）
+
+* [MeowX](https://github.com/mmwx-group/meowx-openwrt)：[MeowX_online_install.run](https://github.com/AUK9527/Are-u-ok/raw/main/meowx/MeowX_online_install.run)
+
+* 自动识别系统版本（OpenWrt / iStoreOS 24.10、25.12）与架构，从 MeowX 官方软件源下载安装最新版，路由器自身需能联网；不支持 22.03。
+
 #### 插件维护：
 目前插件都是由 [bcseputetto](https://github.com/bcseputetto/Are-u-ok) 维护，感谢！！！
 
